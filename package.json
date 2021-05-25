@@ -1,0 +1,30 @@
+{
+  "name": "kickasstorrents",
+  "version": "0.0.1",
+  "description": "Search torrents at kat.proxyninja.org",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proxyninja/kickasstorrents.git"
+  },
+  "keywords": [
+    "kickasstorrents",
+    "kickass",
+    "kat",
+    "unblock",
+    "proxy",
+    "torrents",
+    "tracker",
+    "search"
+  ],
+  "author": "Aaron Cooper <aaroncooper@gmail.com> (https://kat.proxyninja.org)",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "request": "^2.81.0"
+  }
+}
