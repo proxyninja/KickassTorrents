@@ -17,7 +17,8 @@ kickasstorrents.search(keyword, function(err, results) {
 
 - https://kat.proxyninja.org
 - https://kickasstorrents.unblockninja.com
-
+- https://kickasstorrents.ninjaproxy1.com
+  
 
 ## Packages
 * [request](https://github.com/request/request)
